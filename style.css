@@ -13,7 +13,7 @@ body {
    font-weight: 300;
 }
 header {
-  background-image: url('./images/florence.jpg'); /* check exact name */
+  background-image: url('./images/florence.jpg'); 
   background-size: cover;
   width: 100%;
   min-height: 500px;
